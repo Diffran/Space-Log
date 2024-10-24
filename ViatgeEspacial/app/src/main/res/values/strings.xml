@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ViatgeEspacial</string>
+    <string name="opcio_1">Mart</string>
+    <string name="opcio_2">Lluna</string>
+    <string name="opcio_3">Júpiter</string>
+    <string name="opcio_4">Saturn</string>
+    <string name="textNom">Introdueix el teu nom</string>
+    <string name="textEdat">Introdueix la teva edat</string>
+    <string name="textDesti">Selecciona el teu destí</string>
+    <string name="textResum">Resum</string>
+    <string name="seguent">NEXT</string>
+    <string name="back">RETURN</string>
+</resources>
